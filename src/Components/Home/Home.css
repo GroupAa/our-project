@@ -1,0 +1,19 @@
+.B{
+    height: 100vh;width: 100%;
+    background: linear-gradient(90deg, rgba(6, 47, 61, 0.8), rgba(255, 123, 27, 0.8), rgba(255, 123, 27, 0.8), rgba(116, 64, 225, 0.8));
+    backdrop-filter: blur(100px);
+    z-index: 10;
+    font-family: "Bentham", serif;
+     
+}
+.BA{
+    padding-top: 200px;
+    text-align: center;
+}
+.BB{font-weight: bolder;color: rgb(156, 72, 41);}
+.BC{font-weight: bolder;color: white;}
+.BD{font-weight: bold;font-size: large;color: white;margin-right: auto;margin-left: auto;width: 50%;}
+.BE{background-color: rgb(197, 130, 5);width: 200px;height: 50px;border-radius: 50px;text-align: center;justify-content: center;
+    margin-left: auto;margin-right: auto;color: white;cursor: pointer;
+    padding-top: 13px;font-size: large;
+}
